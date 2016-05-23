@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - @localhost" uuid="fb7fd6eb-8690-4a10-b11b-5ea7dd60c0e5">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>world.*</schema-pattern>
+      <default-schemas>world.*</default-schemas>
+    </data-source>
+    <data-source name="Rails TestAdrie: production" uuid="3f49e43f-7668-4864-8622-ec09c385d73b">
+      <user-name>TestAdrie</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffedfefdff9dffedfebdfeedff8dfe3dfefdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+    <data-source name="Rails TestAdrie: development" uuid="da7b412b-8f0b-4487-a118-b364b2cf1948">
+      <user-name>root</user-name>
+      <user-password>dfcddfcfdfcfdfd8dfdedfcbdf99df9e</user-password>
+      <schema-pattern>testadrie_development.*</schema-pattern>
+      <default-schemas>testadrie_development.*</default-schemas>
+    </data-source>
+    <data-source name="Rails TestAdrie: test" uuid="4ac09ed3-bbbe-42bd-bd65-e6c3291f9e88">
+      <user-name>root</user-name>
+      <user-password>dfcddfcfdfcfdfd8dfdedfcbdf99df9e</user-password>
+    </data-source>
+  </component>
+</project>
